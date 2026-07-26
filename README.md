@@ -81,7 +81,7 @@ ArriveX/
 
 ### 1. Clone the Repository
 ``` bash 
-git clone https://github.com/anamikalodhi01/ArriveX.git
+git clone  https://github.com/swetagautam12/ArriveX.git
 cd ArriveX
 ```
 
