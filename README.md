@@ -188,7 +188,7 @@ This project demonstrates:
 
 ## Author
 
-**Anamika Lodhi**  
+**Sweta Gautam**  
 B.Tech CSE | MERN Stack Developer
 
 
